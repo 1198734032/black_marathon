@@ -1,0 +1,30 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "6348554",
+      "name": "安卓",
+      "font_class": "anzhuo-copy",
+      "unicode": "e648",
+      "unicode_decimal": 58952
+    },
+    {
+      "icon_id": "10223223",
+      "name": "java",
+      "font_class": "java",
+      "unicode": "e74f",
+      "unicode_decimal": 59215
+    },
+    {
+      "icon_id": "15307201",
+      "name": "前端",
+      "font_class": "qianduan",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    }
+  ]
+}

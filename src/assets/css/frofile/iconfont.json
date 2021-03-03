@@ -1,0 +1,16 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "15333638",
+      "name": "个人中心",
+      "font_class": "profile-copy",
+      "unicode": "e505",
+      "unicode_decimal": 58629
+    }
+  ]
+}

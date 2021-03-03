@@ -1,0 +1,22 @@
+@import './varibles.styl'
+.underline::before {
+  content: '';
+  position: absolute;
+  display: block;
+  width: 120px;
+  height: 1.5px;
+  background: #ddd;
+  bottom: 1px;
+  left: calc(50% - 60px);
+}
+
+.underline::after {
+  content: '';
+  position: absolute;
+  display: block;
+  width: 40px;
+  height: 3.5px;
+  background: $themecolor;
+  bottom: 0;
+  left: calc(50% - 20px);
+}
